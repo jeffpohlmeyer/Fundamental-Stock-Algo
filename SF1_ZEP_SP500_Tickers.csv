@@ -1,0 +1,781 @@
+SP500,SF1,ZEP,Sector,DateInSP500,DateOutSP500
+A,A,A,Health Care,06/02/00,01/01/20
+AA,AA,AA,Materials,01/01/99,01/01/20
+AAL,AAL,AAL,Industrials,03/20/15,01/01/20
+AAP,AAP,AAP,Consumer Discretionary,07/08/15,01/01/20
+AAPL,AAPL,AAPL,Information Technology,01/01/99,01/01/20
+ABBV,ABBV,ABBV,Health Care,01/01/13,01/01/20
+ABC,ABC,ABC,Health Care,08/29/01,01/01/20
+ABI,ABI1,ABI_2,Health Care,01/01/99,11/21/08
+ABS,ABS,ABS_,Consumer Staples,01/01/99,06/01/06
+ABT,ABT,ABT,Health Care,01/01/99,01/01/20
+ABX,ABX,ABX,Materials,01/01/99,07/19/02
+ACAS,ACAS,ACAS,Financials,07/06/07,03/03/09
+ACN,ACN,ACN,Information Technology,07/05/11,01/01/20
+ACS,ACS,ACS_,Information Technology,04/01/04,01/29/10
+ACV,ACV1,ACV_,Consumer Staples,01/01/99,11/16/06
+ADBE,ADBE,ADBE,Information Technology,01/01/99,01/01/20
+ADCT,ADCT,ADCT,Information Technology,01/01/99,06/29/07
+ADI,ADI,ADI,Information Technology,01/01/99,01/01/20
+ADM,ADM,ADM,Consumer Staples,01/01/99,01/01/20
+ADP,ADP,ADP,Information Technology,01/01/99,01/01/20
+ADS,ADS,ADS,Information Technology,12/20/13,01/01/20
+ADSK,ADSK,ADSK,Information Technology,01/01/99,01/01/20
+ADT,ADT,ADT,Industrials,09/28/12,05/02/16
+AEE,AEE,AEE,Utilities,01/01/99,01/01/20
+AEP,AEP,AEP,Utilities,01/01/99,01/01/20
+AES,AES,AES,Utilities,01/01/99,01/01/20
+AET,AET,AET,Health Care,01/01/99,01/01/20
+AFL,AFL,AFL,Financials,01/01/99,01/01/20
+AGN,AGN,AGN,Health Care,01/01/99,01/01/20
+AIG,AIG,AIG,Financials,01/01/99,01/01/20
+AIV,AIV,AIV,Real Estate,03/13/03,01/01/20
+AIZ,AIZ,AIZ,Financials,04/09/07,01/01/20
+AJG,AJG,AJG,Financials,05/27/16,01/01/20
+AKAM,AKAM,AKAM,Information Technology,07/11/07,01/01/20
+AKS,AKS,AKS,Materials,06/30/08,12/16/11
+ALK,ALK,ALK,Industrials,05/12/16,01/01/20
+ALL,ALL,ALL,Financials,01/01/99,01/01/20
+ALLE,ALLE,ALLE,Industrials,11/29/13,01/01/20
+ALTR,ALTR,ALTR,Information Technology,04/17/00,12/28/15
+ALXN,ALXN,ALXN,Health Care,05/21/12,01/01/20
+AMAT,AMAT,AMAT,Information Technology,01/01/99,01/01/20
+ABK,AMBC,AMBC,Financials,12/08/00,06/10/08
+AMCC,AMCC,AMCC,Information Technology,12/29/00,05/17/06
+AMD,AMD,AMD,Information Technology,01/01/99,09/20/13
+AME,AME,AME,Industrials,09/20/13,01/01/20
+AMG,AMG,AMG,Financials,06/30/14,01/01/20
+AMGN,AMGN,AMGN,Health Care,01/01/99,01/01/20
+AMP,AMP,AMP,Financials,09/30/05,01/01/20
+AMR,AMR,AMR,Industrials,01/01/99,03/13/03
+AMT,AMT,AMT,Real Estate,11/16/07,01/01/20
+AMZN,AMZN,AMZN,Consumer Discretionary,11/18/05,01/01/20
+AN,AN,AN,Consumer Discretionary,02/21/03,01/01/20
+ANDW,ANDW,ANDW,Information Technology,01/01/99,09/29/06
+ANF,ANF,ANF,Consumer Discretionary,03/28/07,12/20/13
+ANR,ANRZ,ANRZQ,Energy,06/01/11,10/01/12
+ANTM,ANTM,ANTM,Health Care,07/24/02,01/01/20
+AON,AON,AON,Financials,01/01/99,01/01/20
+APA,APA,APA,Energy,01/01/99,01/01/20
+APC,APC,APC,Energy,01/01/99,01/01/20
+APD,APD,APD,Materials,01/01/99,01/01/20
+APH,APH,APH,Information Technology,09/29/08,01/01/20
+APOL,APOL,APOL,Consumer Discretionary,05/14/02,06/28/13
+ARC,ARC,ARC,Energy,01/01/99,04/17/00
+ARG,ARG,ARG,Materials,09/08/09,05/20/16
+ASH,ASH,ASH,Materials,01/01/99,11/13/08
+ASN,ASN,ASN,Real Estate,12/17/04,10/05/07
+ASO,ASO,ASO_,Financials,01/01/99,11/03/06
+AT,AT1,AT_3,Telecommunications,01/01/99,11/16/07
+ATI,ATI,ATI,Materials,01/01/99,07/01/15
+ATVI,ATVI,ATVI,Information Technology,08/28/15,01/01/20
+AV,AV1,AV_,Information Technology,09/29/00,10/25/07
+AVB,AVB,AVB,Real Estate,01/09/07,01/01/20
+AVP,AVP,AVP,Consumer Staples,01/01/99,03/20/15
+AVY,AVY,AVY,Materials,01/01/99,01/01/20
+AW,AW,AW,Industrials,01/01/99,12/04/08
+AWK,AWK,AWK,Consumer Discretionary,03/03/16,01/01/20
+AXP,AXP,AXP,Financials,01/01/99,01/01/20
+AYE,AYE,AYE,Utilities,12/08/00,02/25/11
+AYI,AYI,AYI,Information Technology,05/02/16,01/01/20
+AZO,AZO,AZO,Consumer Discretionary,01/01/99,01/01/20
+BA,BA,BA,Industrials,01/01/99,01/01/20
+BAC,BAC,BAC,Financials,01/01/99,01/01/20
+BAX,BAX,BAX,Health Care,01/01/99,01/01/20
+BBBY,BBBY,BBBY,Consumer Discretionary,01/01/99,01/01/20
+BBT,BBT,BBT,Financials,01/01/99,01/01/20
+BBY,BBY,BBY,Consumer Discretionary,01/01/99,01/01/20
+BC,BC,BC,Consumer Discretionary,01/01/99,06/20/08
+BCR,BCR,BCR,Health Care,01/01/99,01/01/20
+BDK,BDK,BDK,Consumer Discretionary,01/01/99,03/12/10
+BDX,BDX,BDX,Health Care,01/01/99,01/01/20
+BEAM,BEAM,BEAM,Consumer Staples,01/01/99,04/30/14
+BEN,BEN,BEN,Financials,01/01/99,01/01/20
+BF.B,BFB,BF_B,Consumer Staples,01/01/99,01/01/20
+BGG,BGG,BGG,Industrials,01/01/99,04/02/01
+BHI,BHI,BHI,Energy,01/01/99,01/01/20
+BIG,BIG,BIG,Consumer Discretionary,01/01/99,02/13/13
+BIIB,BIIB,BIIB,Health Care,11/12/03,01/01/20
+BJS,BJS,BJS,Energy,05/14/02,04/29/10
+BK,BK,BK,Financials,06/29/07,06/29/07
+BLK,BLK,BLK,Financials,04/01/11,01/01/20
+BLL,BLL,BLL,Materials,01/01/99,01/01/20
+BLS,BLS,BLS,Telecommunications,01/01/99,01/03/07
+BMC,BMC,BMC,Information Technology,01/01/99,09/10/13
+BMET,BMET,BMET,Health Care,01/01/99,07/11/07
+BMS,BMS,BMS,Materials,01/01/99,12/04/14
+BMY,BMY,BMY,Health Care,01/01/99,01/01/20
+BNI,BNI,BNI,Industrials,01/01/99,02/12/10
+BOL,BOL,BOL,Health Care,01/01/99,10/26/07
+BR,BR1,BR_,Energy,01/01/99,03/31/06
+BRCM,BRCM,BRCM,Information Technology,06/30/00,01/29/16
+BRK.B,BRKB,BRK_B,Financials,02/12/10,01/01/20
+BRL,BRL,BRL,Health Care,02/24/06,12/22/08
+BSX,BSX,BSX,Health Care,01/01/99,01/01/20
+BTU,BTUUQ,BTUUQ,Energy,11/17/06,09/19/14
+BUD,BUD,BUD,Consumer Staples,01/01/99,11/18/08
+BVSN,BVSN,BVSN,Information Technology,11/03/00,08/31/01
+BWA,BWA,BWA,Consumer Discretionary,12/16/11,01/01/20
+BXLT,BXLT,BXLT,Health Care,06/30/15,06/02/16
+BXP,BXP,BXP,Real Estate,03/31/06,01/01/20
+C,C,C,Financials,01/01/99,01/01/20
+CA,CA,CA,Information Technology,01/01/99,01/01/20
+CAG,CAG,CAG,Consumer Staples,01/01/99,01/01/20
+CAH,CAH,CAH,Health Care,01/01/99,01/01/20
+CAM,CAM,CAM,Energy,01/28/08,04/01/16
+CAT,CAT,CAT,Industrials,01/01/99,01/01/20
+CB,CB,CB,Financials,07/14/10,07/17/08
+CBE,CBE,CBE,Industrials,11/18/11,11/30/12
+CBG,CBG,CBG,Real Estate,11/09/06,01/01/20
+CBH,CBH,CBH,Financials,06/05/06,03/28/08
+CBS,CBS,CBS,Consumer Discretionary,01/01/99,01/01/20
+CBSS,CBSS,CBSS_,Financials,12/17/04,09/07/07
+CCE,CCE,CCE,Consumer Staples,01/01/99,05/27/16
+CCI,CCI,CCI,Real Estate,03/13/12,01/01/20
+CCK,CCK,CCK,Materials,01/01/99,12/08/00
+CCL,CCL,CCL,Consumer Discretionary,01/01/99,01/01/20
+CEG,CEG,CEG,Utilities,01/01/99,03/13/12
+CELG,CELG,CELG,Health Care,11/03/06,01/01/20
+CEN,CEN1,CEN_,Information Technology,01/01/99,03/30/01
+CEPH,CEPH,CEPH,Health Care,11/14/08,10/14/11
+CERN,CERN,CERN,Health Care,04/29/10,01/01/20
+CF,CF,CF,Materials,08/26/08,01/01/20
+CF (C. O.),CF1,CF_2,Financials,06/16/00,08/31/04
+CFC,CFC,CFC,Financials,01/01/99,06/30/08
+CFG,CFG,CFG,Financials,01/29/16,01/01/20
+CFN,CFN,CFN,Health Care,08/31/09,03/17/15
+CHD,CHD,CHD,Consumer Staples,12/28/15,01/01/20
+CHIR,CHIR,CHIR,Health Care,11/22/00,04/19/06
+CHK,CHK,CHK,Energy,03/02/06,01/01/20
+CHRW,CHRW,CHRW,Industrials,03/01/07,01/01/20
+CI,CI,CI,Health Care,01/01/99,01/01/20
+CIEN,CIEN,CIEN,Information Technology,08/29/01,12/18/09
+CIN,CIN,CIN,Utilities,01/01/99,03/31/06
+CINF,CINF,CINF,Financials,01/01/99,01/01/20
+CIT,CIT,CIT,Financials,10/26/04,07/24/09
+CL,CL,CL,Consumer Staples,01/01/99,01/01/20
+CLF,CLF,CLF,Materials,12/18/09,04/01/14
+CLX,CLX,CLX,Consumer Staples,01/01/99,01/01/20
+CMA,CMA,CMA,Financials,01/01/99,01/01/20
+CMCSA,CMCSA,CMCSA,Consumer Discretionary,11/18/02,01/01/20
+CME,CME,CME,Financials,08/10/06,01/01/20
+CMG,CMG,CMG,Consumer Discretionary,04/27/11,01/01/20
+CMI,CMI,CMI,Industrials,01/01/99,01/01/20
+CMS,CMS,CMS,Utilities,01/01/99,01/01/20
+CMX,CMX,CMX,Health Care,03/24/04,03/22/07
+CNC,CNC,CNC,Health Care,03/29/16,01/01/20
+CNO,CNO,CNO,Financials,01/01/99,07/24/02
+CNP,CNP,CNP,Utilities,01/01/99,01/01/20
+CNX,CNX,CNX,Energy,06/27/06,03/03/16
+COF,COF,COF,Financials,01/01/99,01/01/20
+COG,COG,COG,Energy,06/20/08,01/01/20
+COH,COH,COH,Consumer Discretionary,08/31/04,01/01/20
+COL,COL,COL,Industrials,06/29/01,01/01/20
+COMS,COMS,COMS,Information Technology,01/01/99,07/27/00
+COP,COP,COP,Energy,01/01/99,01/01/20
+COST,COST,COST,Consumer Staples,01/01/99,01/01/20
+COV,COV,COV,Health Care,02/28/11,01/26/15
+CPB,CPB,CPB,Consumer Staples,01/01/99,01/01/20
+CPGX,CPGX,CPGX,Energy,07/01/15,07/05/16
+CPN,CPN,CPN,Utilities,11/30/00,12/01/05
+CPWR,CPWR,CPWR,Information Technology,01/01/99,12/30/11
+CR,CR,CR,Industrials,01/01/99,12/17/04
+CRM,CRM,CRM,Information Technology,09/12/08,01/01/20
+CSC,CSC,CSC,Information Technology,01/01/99,11/30/15
+CSCO,CSCO,CSCO,Information Technology,01/01/99,01/01/20
+CSRA,CSRA,CSRA,Information Technology,11/30/15,01/01/20
+CSX,CSX,CSX,Industrials,01/01/99,01/01/20
+CTAS,CTAS,CTAS,Industrials,02/28/01,01/01/20
+CTB,CTB,CTB,Consumer Discretionary,01/01/99,07/17/06
+CTL,CTL,CTL,Telecommunications,01/01/99,01/01/20
+CTSH,CTSH,CTSH,Information Technology,11/16/06,01/01/20
+CTX,CTX,CTX,Consumer Discretionary,01/01/99,08/18/09
+CTXS,CTXS,CTXS,Information Technology,01/01/99,01/01/20
+CVC,CVC,CVC,Consumer Discretionary,12/17/10,06/23/16
+CVG,CVG,CVG,Information Technology,06/12/00,12/18/09
+CVH,CVH,CVH,Health Care,08/29/05,05/08/13
+CVS,CVS,CVS,Consumer Staples,01/01/99,01/01/20
+CVX,CVX,CVX,Energy,01/01/99,01/01/20
+CXO,CXO,CXO,Energy,02/19/16,01/01/20
+D,D,D,Utilities,01/01/99,01/01/20
+DAL,DAL,DAL,Industrials,09/10/13,08/18/05
+DCN,DCNAQ,DCNAQ,Consumer Discretionary,01/01/99,03/02/06
+DD,DD,DD,Materials,01/01/99,01/01/20
+DDR,DDR,DDR,Real Estate,03/22/07,03/27/09
+DDS,DDS,DDS,Consumer Discretionary,01/01/99,10/21/08
+DE,DE,DE,Industrials,01/01/99,01/01/20
+DELL,DELL,DELL,Information Technology,01/01/99,10/28/13
+DF,DF,DF,Consumer Staples,03/31/06,05/23/13
+DFS,DFS,DFS,Financials,06/29/07,01/01/20
+DG,DG,DG,Consumer Discretionary,11/30/12,07/06/07
+DGX,DGX,DGX,Health Care,12/11/02,01/01/20
+DHI,DHI,DHI,Consumer Discretionary,07/01/05,01/01/20
+DHR,DHR,DHR,Industrials,01/01/99,01/01/20
+DIS,DIS,DIS,Consumer Discretionary,01/01/99,01/01/20
+DISCA,DISCA,DISCA,Consumer Discretionary,02/26/10,01/01/20
+DJ,DJ,DJ,Consumer Discretionary,01/01/99,12/13/07
+DLPH,DLPH,DLPH,Consumer Discretionary,12/21/12,01/01/20
+DLR,DLR,DLR,Real Estate,05/17/16,01/01/20
+DLTR,DLTR,DLTR,Consumer Discretionary,12/16/11,01/01/20
+DLX,DLX,DLX,Industrials,01/01/99,12/17/04
+DNB,DNB,DNB,Industrials,12/01/08,10/02/00
+DNR,DNR,DNR,Energy,04/01/09,03/20/15
+DO,DO,DO,Energy,02/25/09,01/01/20
+DOV,DOV,DOV,Industrials,01/01/99,01/01/20
+DOW,DOW,DOW,Materials,01/01/99,01/01/20
+DPS,DPS,DPS,Consumer Staples,10/03/08,01/01/20
+DRI,DRI,DRI,Consumer Discretionary,01/01/99,01/01/20
+DTE,DTE,DTE,Utilities,01/01/99,01/01/20
+DTV,DTV2,DTV,Consumer Discretionary,12/01/06,07/28/15
+DUK,DUK,DUK,Utilities,01/01/99,01/01/20
+DV,DV,DV,Consumer Discretionary,06/08/09,09/28/12
+DVA,DVA,DVA,Health Care,07/30/08,01/01/20
+DVN,DVN,DVN,Energy,08/29/00,01/01/20
+DYN,DYN,DYN,Utilities,10/02/00,12/18/09
+EA,EA,EA,Information Technology,07/19/02,01/01/20
+EBAY,EBAY,EBAY,Information Technology,07/19/02,01/01/20
+EC,EC1,EC_,Materials,01/01/99,06/05/06
+ECL,ECL,ECL,Materials,01/01/99,01/01/20
+ED,ED,ED,Utilities,01/01/99,01/01/20
+EDS,EDS,EDS_,Information Technology,01/01/99,08/26/08
+EFX,EFX,EFX,Industrials,01/01/99,01/01/20
+EIX,EIX,EIX,Utilities,01/01/99,01/01/20
+EL,EL,EL,Consumer Staples,01/04/06,01/01/20
+EMC,EMC,EMC,Information Technology,01/01/99,01/01/20
+EMN,EMN,EMN,Materials,01/01/99,01/01/20
+EMR,EMR,EMR,Industrials,01/01/99,01/01/20
+ENDP,ENDP,ENDP,Health Care,01/26/15,01/01/20
+EOG,EOG,EOG,Energy,11/01/00,01/01/20
+EOP,EOP,EOP,Financials,10/09/01,02/09/07
+EP,EP,EP,Energy,01/01/99,05/17/12
+EQ,EQ,EQ,Telecommunications,05/17/06,06/30/09
+EQIX,EQIX,EQIX,Real Estate,03/20/15,01/01/20
+EQR,EQR,EQR,Real Estate,11/30/01,01/01/20
+EQT,EQT,EQT,Energy,12/18/08,01/01/20
+ES,ES,ES,Utilities,03/16/09,01/01/20
+ESRX,ESRX,ESRX,Health Care,09/25/03,01/01/20
+ESS,ESS,ESS,Real Estate,04/01/14,01/01/20
+ESV,ESV,ESV,Energy,07/30/12,03/29/16
+ETFC,ETFC,ETFC,Financials,03/31/04,01/01/20
+ETN,ETN,ETN,Industrials,01/01/99,01/01/20
+ETR,ETR,ETR,Utilities,01/01/99,01/01/20
+EW,EW,EW,Health Care,03/31/11,01/01/20
+EXC,EXC,EXC,Utilities,01/01/99,01/01/20
+EXPD,EXPD,EXPD,Industrials,10/09/07,01/01/20
+EXPE,EXPE,EXPE,Consumer Discretionary,10/01/07,01/01/20
+EXR,EXR,EXR,Real Estate,01/15/16,01/01/20
+F,F,F,Consumer Discretionary,01/01/99,01/01/20
+FAST,FAST,FAST,Industrials,09/12/08,01/01/20
+FB,FB,FB,Information Technology,12/20/13,01/01/20
+FBF,FBF,FBF,Financials,01/01/99,03/31/04
+FBHS,FBHS,FBHS,Consumer Discretionary,06/23/16,01/01/20
+FCX,FCX,FCX,Materials,01/01/99,01/01/20
+FDC,FDC,FDC,Information Technology,01/01/99,09/24/07
+FDO,FDO,FDO,Consumer Discretionary,08/03/01,07/08/15
+FDX,FDX,FDX,Industrials,01/01/99,01/01/20
+FE,FE,FE,Utilities,01/01/99,01/01/20
+FFIV,FFIV,FFIV,Information Technology,12/17/10,01/01/20
+FHN,FHN,FHN,Financials,05/03/02,06/21/13
+FII,FII,FII,Financials,04/15/03,01/01/13
+FIS,FIS,FIS,Information Technology,11/09/06,01/01/20
+FISV,FISV,FISV,Information Technology,03/30/01,01/01/20
+FITB,FITB,FITB,Financials,01/01/99,01/01/20
+FL,FL,FL,Consumer Discretionary,04/01/16,01/01/20
+FLIR,FLIR,FLIR,Information Technology,12/31/08,01/01/20
+FLR,FLR,FLR,Industrials,12/21/00,01/01/20
+FLS,FLS,FLS,Industrials,10/01/08,01/01/20
+FMC,FMC,FMC,Materials,08/18/09,12/31/01
+FNM,FNMA,FNMA,Financials,01/01/99,09/10/08
+FOSL,FOSL,FOSL,Consumer Discretionary,04/03/12,01/04/16
+FOX,FOX,FOX,Consumer Discretionary,"September 18, 2015",01/01/20
+FRT,FRT,FRT,Real Estate,01/29/16,01/01/20
+FRX,FRX,FRX,Health Care,11/21/00,06/30/14
+FSH,FSH,FSH,Health Care,08/02/04,11/09/06
+FSL.B,FSLB,FSL_B,Information Technology,12/02/04,12/01/06
+FSLR,FSLR,FSLR,Information Technology,10/15/09,01/01/20
+FTI,FTI,FTI,Energy,06/04/09,01/01/20
+FTR,FTR,FTR,Telecommunications,02/26/01,01/01/20
+FWC,FWLT,FWLT,Industrials,01/01/99,01/28/00
+GAS,GAS,GAS,Utilities,12/12/11,06/30/16
+GAS (Old),GAS1,GAS_,Utilities,01/01/99,12/12/11
+GD,GD,GD,Industrials,01/01/99,01/01/20
+GDT,GDT,GDT,Health Care,01/01/99,04/21/06
+GDW,GDW,GDW,Financials,01/01/99,09/29/06
+GE,GE,GE,Industrials,01/01/99,01/01/20
+GEN,GEN1,GEN_2,Utilities,04/02/01,07/16/03
+GENZ,GENZ,GENZ,Health Care,12/13/01,04/01/11
+GGP,GGP,GGP,Real Estate,12/09/13,11/12/08
+GHC,GHC,GHC,Health Care,12/28/07,09/19/14
+GILD,GILD,GILD,Health Care,06/30/04,01/01/20
+GIS,GIS,GIS,Consumer Staples,01/01/99,01/01/20
+GX,GLBC,GLBC,Telecommunications,01/01/99,10/09/01
+GLW,GLW,GLW,Information Technology,01/01/99,01/01/20
+GM,GM,GM,Consumer Discretionary,06/06/13,06/02/09
+GMCR,GMCR,GMCR,Consumer Staples,03/21/14,03/04/16
+GME,GME,GME,Consumer Discretionary,12/13/07,04/22/16
+GNW,GNW,GNW,Financials,12/01/05,11/17/15
+GOOGL,GOOGL,GOOGL,Information Technology,03/31/06,01/01/20
+GPC,GPC,GPC,Consumer Discretionary,01/01/99,01/01/20
+GPN,GPN,GPN,Industrials,04/22/16,01/01/20
+GPS,GPS,GPS,Consumer Discretionary,01/01/99,01/01/20
+GR,GR,GR,Industrials,01/01/99,07/30/12
+GRA,GRA,GRA,Materials,01/01/99,12/08/00
+GRMN,GRMN,GRMN,Consumer Discretionary,12/11/12,01/01/20
+GS,GS,GS,Financials,07/19/02,01/01/20
+GT,GT,GT,Consumer Discretionary,01/01/99,01/01/20
+GTW,GTW,GTW,Information Technology,01/01/99,07/31/06
+GWW,GWW,GWW,Industrials,01/01/99,01/01/20
+HAL,HAL,HAL,Energy,01/01/99,01/01/20
+HAR,HAR,HAR,Consumer Discretionary,01/31/06,01/01/20
+HAS,HAS,HAS,Consumer Discretionary,01/01/99,01/01/20
+HBAN,HBAN,HBAN,Financials,01/01/99,01/01/20
+HBI,HBI,HBI,Consumer Discretionary,03/20/15,01/01/20
+HCA,HCA,HCA,Health Care,01/26/15,11/17/06
+HCBK,HCBK,HCBK,Financials,02/14/07,11/02/15
+HCN,HCN,HCN,Real Estate,01/29/09,01/01/20
+HCP,HCP,HCP,Real Estate,03/28/08,01/01/20
+HCR,HCR,HCR,Health Care,01/01/99,11/08/07
+HD,HD,HD,Consumer Discretionary,01/01/99,01/01/20
+HES,HES,HES,Energy,01/01/99,01/01/20
+HI,HI,HI,Financials,01/01/99,03/28/03
+HIG,HIG,HIG,Financials,01/01/99,01/01/20
+HRC,HLS,HLS,Health Care,01/01/99,03/20/03
+HLT,HLT,HLT,Consumer Discretionary,01/01/99,10/24/07
+HMA,HMA,HMA,Health Care,11/06/01,03/01/07
+HNZ,HNZ,HNZ,Consumer Discretionary,01/01/99,06/06/13
+HOG,HOG,HOG,Consumer Discretionary,01/28/00,01/01/20
+HOLX,HOLX,HOLX,Health Care,03/29/16,01/01/20
+HON,HON,HON,Industrials,01/01/99,01/01/20
+HOT,HOT,HOT,Consumer Discretionary,11/16/00,01/01/20
+HP,HP,HP,Energy,02/26/10,01/01/20
+HPC,HPC,HPC,Materials,01/01/99,11/13/08
+HPE,HPE,HPE,Information Technology,11/02/15,01/01/20
+HPQ,HPQ,HPQ,Information Technology,01/01/99,01/01/20
+HRB,HRB,HRB,Consumer Discretionary,01/01/99,01/01/20
+HRL,HRL,HRL,Consumer Staples,03/03/09,01/01/20
+HRS,HRS,HRS,Information Technology,09/19/08,01/01/20
+HSH,HSH,HSH,Consumer Staples,01/01/99,06/28/12
+HSIC,HSIC,HSIC,Health Care,03/17/15,01/01/20
+HSP,HSP,HSP,Health Care,04/30/04,09/02/15
+HST,HST,HST,Real Estate,03/19/07,01/01/20
+HSY,HSY,HSY,Consumer Staples,01/01/99,01/01/20
+HUM,HUM,HUM,Health Care,01/01/99,01/01/20
+IBM,IBM,IBM,Information Technology,01/01/99,01/01/20
+ICE,ICE,ICE,Financials,09/25/07,01/01/20
+IFF,IFF,IFF,Materials,01/01/99,01/01/20
+IGT,IGT,IGT,Consumer Discretionary,08/31/01,06/20/14
+IKN,IKN,IKN,Industrials,01/01/99,06/28/00
+ILMN,ILMN,ILMN,Health Care,11/18/15,01/01/20
+INTC,INTC,INTC,Information Technology,01/01/99,01/01/20
+INTU,INTU,INTU,Information Technology,12/08/00,01/01/20
+IP,IP,IP,Materials,01/01/99,01/01/20
+IPG,IPG,IPG,Consumer Discretionary,01/01/99,01/01/20
+IR,IR,IR,Industrials,11/16/10,06/30/09
+IRM,IRM,IRM,Real Estate,01/05/09,01/01/20
+ISRG,ISRG,ISRG,Health Care,06/02/08,01/01/20
+ITT,ITT,ITT,Industrials,01/01/99,10/31/11
+ITW,ITW,ITW,Industrials,01/01/99,01/01/20
+IVZ,IVZ,IVZ,Financials,08/20/08,01/01/20
+JAVA,JAVA,JAVA,Information Technology,01/01/99,01/27/10
+JBHT,JBHT,JBHT,Industrials,06/30/15,01/01/20
+JBL,JBL,JBL,Information Technology,01/29/01,11/04/14
+JCI,JCI,jci_,Consumer Discretionary,01/01/99,01/01/20
+JCP,JCP,JCP,Consumer Discretionary,01/01/99,11/29/13
+JEC,JEC,JEC,Industrials,10/25/07,01/01/20
+JNJ,JNJ,JNJ,Health Care,01/01/99,01/01/20
+JNPR,JNPR,JNPR,Information Technology,06/01/06,01/01/20
+JNS,JNS,JNS,Financials,07/12/00,11/18/11
+JNY,JNY,JNY,Consumer Discretionary,12/14/01,03/03/09
+JOY,JOY,JOY,Industrials,02/25/11,10/07/15
+JP,JP1,JP_,Financials,01/01/99,03/31/06
+JPM,JPM,JPM,Financials,01/01/99,01/01/20
+JWN,JWN,JWN,Consumer Discretionary,01/01/99,01/01/20
+K,K,K,Consumer Staples,01/01/99,01/01/20
+KATE,KATE,KATE,Consumer Discretionary,01/01/99,12/01/08
+KBH,KBH,KBH,Consumer Discretionary,01/01/99,12/18/09
+KEY,KEY,KEY,Financials,01/01/99,01/01/20
+KG,KG,KG,Health Care,10/02/00,12/17/10
+KHC,KHC,KHC,Consumer Staples,10/01/12,01/01/20
+KIM,KIM,KIM,Real Estate,03/31/06,01/01/20
+KLAC,KLAC,KLAC,Information Technology,01/01/99,01/01/20
+KMB,KMB,KMB,Consumer Staples,01/01/99,01/01/20
+KMG,KMG1,KMG_,Energy,01/01/99,08/10/06
+KMI,KMI,KMI,Energy,05/17/12,05/30/07
+KMX,KMX,KMX,Consumer Discretionary,06/28/10,01/01/20
+KO,KO,KO,Consumer Staples,01/01/99,01/01/20
+EK,KODK,KODK,Information Technology,01/01/99,12/17/10
+KORS,KORS,KORS,Consumer Discretionary,11/12/13,01/01/20
+KR,KR,KR,Consumer Staples,01/01/99,01/01/20
+KRB,KRB,KRB,Financials,01/01/99,12/30/05
+KRI,KRI,KRI,Consumer Discretionary,01/01/99,06/27/06
+KSS,KSS,KSS,Consumer Discretionary,01/01/99,01/01/20
+KSU,KSU,KSU,Industrials,05/23/13,07/12/00
+L,L,L,Financials,01/01/99,01/01/20
+LB,LB,LB,Consumer Discretionary,01/01/99,01/01/20
+U,LCC,LCC,Industrials,01/01/99,05/14/02
+LDG,LDG,LDG,Consumer Staples,01/01/99,06/29/01
+LDOS,LDOS,LDOS,Information Technology,12/18/09,09/20/13
+LEG,LEG,LEG,Consumer Discretionary,01/01/99,01/01/20
+LEH,LEH,LEHMQ,Financials,01/01/99,09/16/08
+LEN,LEN,LEN,Consumer Discretionary,10/03/05,01/01/20
+LH,LH,LH,Health Care,10/29/04,01/01/20
+LIFE,LIFE2,LIFE2,Health Care,11/21/08,01/23/14
+LKQ,LKQ,LKQ,Consumer Discretionary,05/20/16,01/01/20
+LLL,LLL,LLL,Industrials,11/30/04,01/01/20
+LLTC,LLTC,LLTC,Information Technology,03/31/00,01/01/20
+LLY,LLY,LLY,Health Care,01/01/99,01/01/20
+LM,LM,LM,Financials,04/21/06,01/01/20
+LMT,LMT,LMT,Industrials,01/01/99,01/01/20
+LNC,LNC,LNC,Financials,01/01/99,01/01/20
+LO,LO,LO,Consumer Staples,06/10/08,06/11/15
+LOW,LOW,LOW,Consumer Discretionary,01/01/99,01/01/20
+LPX,LPX,LPX,Materials,01/01/99,11/09/06
+LRCX,LRCX,LRCX,Information Technology,06/05/12,01/01/20
+LSI,LSI1,LSI_,Information Technology,01/01/99,05/07/14
+LU,LU,LU,Information Technology,01/01/99,11/30/06
+LUK,LUK,LUK,Financials,08/24/07,01/01/20
+LUV,LUV,LUV,Industrials,01/01/99,01/01/20
+LVLT,LVLT,LVLT,Telecommunications,11/04/14,01/01/20
+LXK,LXK,LXK,Information Technology,01/01/99,09/28/12
+LYB,LYB,LYB,Materials,09/04/12,01/01/20
+M,M,M,Consumer Discretionary,01/01/99,01/01/20
+MA,MA,MA,Information Technology,07/17/08,01/01/20
+MAC,MAC,MAC,Real Estate,05/08/13,01/01/20
+MAR,MAR,MAR,Consumer Discretionary,01/01/99,01/01/20
+MAS,MAS,MAS,Industrials,01/01/99,01/01/20
+MAT,MAT,MAT,Consumer Discretionary,01/01/99,01/01/20
+MBI,MBI,MBI,Financials,01/01/99,12/18/09
+MCD,MCD,MCD,Consumer Discretionary,01/01/99,01/01/20
+MCHP,MCHP,MCHP,Information Technology,09/07/07,01/01/20
+MCK,MCK,MCK,Health Care,01/01/99,01/01/20
+MCO,MCO,MCO,Financials,10/02/00,01/01/20
+MZ,MCRN,MCRN,Industrials,01/01/99,06/28/00
+MDLZ,MDLZ,MDLZ,Consumer Staples,03/30/07,01/01/20
+MDP,MDP,MDP,Consumer Discretionary,01/01/99,01/03/11
+MDR,MDR,MDR,Energy,01/01/99,08/19/03
+MDT,MDT,MDT,Health Care,01/01/99,01/01/20
+MEDI,MEDI,MEDI,Health Care,06/15/00,05/31/07
+MEE,MEE,MEE,Energy,06/20/08,06/01/11
+MEL,MEL,MEL,Financials,01/01/99,06/29/07
+MER,MER,MER_,Financials,01/01/99,12/31/08
+MET,MET,MET,Financials,12/08/00,01/01/20
+MFE,MFE,MFE,Information Technology,12/22/08,02/28/11
+MHK,MHK,MHK,Consumer Discretionary,12/20/13,01/01/20
+MHS,MHS,MHS,Health Care,08/19/03,04/03/12
+MI,MI,MI,Financials,02/08/02,07/05/11
+MIL,MIL1,MIL_,Health Care,01/01/99,07/14/10
+MJN,MJN,MJN,Consumer Staples,12/18/09,01/01/20
+MKC,MKC,MKC,Consumer Staples,03/20/03,01/01/20
+MLM,MLM,MLM,Materials,07/01/14,01/01/20
+MMC,MMC,MMC,Financials,01/01/99,01/01/20
+MMI,MMI1,MMI_2,Information Technology,01/03/11,05/21/12
+MMM,MMM,MMM,Industrials,01/01/99,01/01/20
+MNK,MNK,MNK,Health Care,08/18/14,01/01/20
+MNST,MNST,MNST,Consumer Staples,06/28/12,01/01/20
+MO,MO,MO,Consumer Staples,01/01/99,01/01/20
+MOLX,MOLX,MOLX,Information Technology,01/01/99,12/09/13
+MON,MON,MON,Materials,08/13/02,01/01/20
+MOS,MOS,MOS,Materials,09/23/11,01/01/20
+MPC,MPC,MPC,Energy,06/30/11,01/01/20
+MRK,MRK,MRK,Health Care,01/01/99,01/01/20
+MRO,MRO,MRO,Energy,01/01/99,01/01/20
+MS,MS,MS,Financials,01/01/99,01/01/20
+MSFT,MSFT,MSFT,Information Technology,01/01/99,01/01/20
+MSI,MSI,MSI,Information Technology,01/01/99,01/01/20
+MTB,MTB,MTB,Financials,02/26/04,01/01/20
+MTG,MTG,MTG,Financials,01/01/99,10/30/08
+MTW,MTW,MTW,Industrials,11/15/07,08/31/09
+MU,MU,MU,Information Technology,01/01/99,01/01/20
+MUR,MUR,MUR,Energy,08/12/05,01/01/20
+MWW,MWW,MWW,Information Technology,06/01/01,12/16/11
+MXIM,MXIM,MXIM,Information Technology,05/09/00,09/26/07
+MYG,MYG,MYG_,Consumer Discretionary,01/01/99,03/31/06
+MYL,MYL,MYL,Health Care,04/22/04,01/01/20
+NAV,NAV,NAV,Industrials,01/01/99,12/19/06
+NAVI,NAVI,NAVI,Financials,05/01/14,01/01/20
+NBL,NBL,NBL,Energy,10/05/07,01/01/20
+NBR,NBR,NBR,Energy,10/17/00,03/20/15
+NC,NC,NC,Consumer Discretionary,01/01/99,06/02/00
+NCC,NCC,NCC,Financials,01/01/99,12/31/08
+NCR,NCR,NCR,Information Technology,01/03/00,09/28/07
+NDAQ,NDAQ,NDAQ,Financials,10/21/08,01/01/20
+NE,NE,NE,Energy,01/14/11,07/17/15
+NEE,NEE,NEE,Utilities,01/01/99,01/01/20
+NEM,NEM,NEM,Materials,01/01/99,01/01/20
+NFB,NFB,NFB,Financials,07/16/02,11/30/06
+NFLX,NFLX,NFLX,Consumer Discretionary,12/17/10,01/01/20
+NFX,NFX,NFX,Energy,12/17/10,01/01/20
+NI,NI,NI,Utilities,11/01/00,01/01/20
+NKE,NKE,NKE,Consumer Discretionary,01/01/99,01/01/20
+NLSN,NLSN,NLSN,Industrials,07/08/13,01/01/20
+NOC,NOC,NOC,Industrials,01/01/99,01/01/20
+NOV,NOV,NOV,Energy,03/11/05,01/01/20
+NOVL,NOVL,NOVL,Information Technology,01/01/99,04/27/11
+NRG,NRG,NRG,Utilities,01/27/10,01/01/20
+NT,NRTLQ,NRTLQ,Information Technology,01/01/99,07/19/02
+NSC,NSC,NSC,Industrials,01/01/99,01/01/20
+NSM,NSM1,NSM_,Information Technology,01/01/99,09/23/11
+NTAP,NTAP,NTAP,Information Technology,01/01/99,01/01/20
+NTRS,NTRS,NTRS,Financials,01/01/99,01/01/20
+NUE,NUE,NUE,Materials,01/01/99,01/01/20
+NVDA,NVDA,NVDA,Information Technology,11/29/01,01/01/20
+NVLS,NVLS1,NVLS_,Information Technology,06/16/00,06/05/12
+NWL,NWL,NWL,Consumer Discretionary,01/01/99,01/01/20
+NWSA,NWSA,NWSA,Consumer Discretionary,06/28/13,01/01/20
+NXTL,NXTL,NXTL,Telecommunications,01/01/99,08/12/05
+NYT,NYT,NYT,Consumer Discretionary,01/01/99,12/17/10
+NYX,NYX,NYX,Financials,10/24/07,11/12/13
+O,O,O,Real Estate,04/06/15,01/01/20
+OWC,OC,OC,Industrials,01/01/99,09/29/00
+ODP,ODP,ODP,Consumer Discretionary,01/01/99,12/17/10
+OI,OI,OI,Materials,12/31/08,12/08/00
+OKE,OKE,OKE,Energy,03/12/10,08/29/01
+OMC,OMC,OMC,Consumer Discretionary,01/01/99,01/01/20
+OMX,OMX,OMX,Consumer Discretionary,01/01/99,06/20/08
+ORCL,ORCL,ORCL,Information Technology,01/01/99,01/01/20
+ORLY,ORLY,ORLY,Consumer Discretionary,03/26/09,01/01/20
+OXY,OXY,OXY,Energy,01/01/99,01/01/20
+PALM,PALM,PALM,Information Technology,07/27/00,08/13/02
+PAYX,PAYX,PAYX,Information Technology,01/01/99,01/01/20
+PBCT,PBCT,PBCT,Financials,11/12/08,01/01/20
+PBG,PBG,PBG,Consumer Staples,05/11/01,02/26/10
+PBI,PBI,PBI,Industrials,01/01/99,01/01/20
+PBY,PBY,PBY,Consumer Discretionary,01/01/99,03/31/00
+PCAR,PCAR,PCAR,Industrials,01/01/99,01/01/20
+PCG,PCG,PCG,Utilities,01/01/99,01/01/20
+PCH,PCH,PCH,Real Estate,01/01/99,07/06/01
+PCL,PCL,PCL,Financials,01/16/02,02/19/16
+PCLN,PCLN,PCLN,Consumer Discretionary,11/03/09,01/01/20
+PCP,PCP,PCP,Industrials,05/31/07,01/29/16
+PD,PD,PD,Materials,01/01/99,03/19/07
+PDCO,PDCO,PDCO,Health Care,10/10/05,01/01/20
+PEG,PEG,PEG,Utilities,01/01/99,01/01/20
+PEP,PEP,PEP,Consumer Staples,01/01/99,01/01/20
+PETM,PETM,PETM,Consumer Discretionary,10/04/12,03/11/15
+PFE,PFE,PFE,Health Care,01/01/99,01/01/20
+PFG,PFG,PFG,Financials,07/19/02,01/01/20
+PG,PG,PG,Consumer Staples,01/01/99,01/01/20
+PGL,PGL,PGL,Utilities,01/01/99,02/21/07
+PGN,PGN1,PGN_3,Utilities,01/01/99,06/29/12
+PGR,PGR,PGR,Financials,01/01/99,01/01/20
+PH,PH,PH,Industrials,01/01/99,01/01/20
+PHM,PHM,PHM,Consumer Discretionary,01/01/99,01/01/20
+PKI,PKI,PKI,Health Care,01/01/99,01/01/20
+PLD,PLD,PLD,Real Estate,07/16/03,01/01/20
+PLL,PLL,PLL,Industrials,01/01/99,08/28/15
+PM,PM,PM,Consumer Staples,03/28/08,01/01/20
+PMCS,PMCS,PMCS,Information Technology,08/02/01,06/29/07
+PNC,PNC,PNC,Financials,01/01/99,01/01/20
+PNR,PNR,PNR,Industrials,09/28/12,01/01/20
+PNW,PNW,PNW,Utilities,01/01/99,01/01/20
+POM,POM,POM,Utilities,11/08/07,03/29/16
+PPG,PPG,PPG,Materials,01/01/99,01/01/20
+PPL,PPL,PPL,Utilities,01/01/99,01/01/20
+PRGO,PRGO,PRGO,Health Care,12/16/11,01/01/20
+PRU,PRU,PRU,Financials,07/19/02,01/01/20
+PSA,PSA,PSA,Real Estate,08/18/05,01/01/20
+PSFT,PSFT,PSFT_,Information Technology,01/01/99,12/28/04
+PSX,PSX,PSX,Energy,04/23/12,01/01/20
+PTC,PTC,PTC,Information Technology,01/01/99,12/29/06
+PTV,PTV,PTV,Materials,01/01/99,11/16/10
+PVH,PVH,PVH,Consumer Discretionary,02/13/13,01/01/20
+PWER,PWER,PWER,Information Technology,10/20/00,03/11/05
+PWR,PWR,PWR,Industrials,06/30/09,01/01/20
+PX,PX,PX,Materials,01/01/99,01/01/20
+PXD,PXD,PXD,Energy,09/23/08,01/01/20
+PYPL,PYPL,PYPL,Information Technology,07/17/15,01/01/20
+QTRN,Q,QTRN,Health Care,01/01/99,09/25/03
+Q,Q1,Q_1,Telecommunications,07/05/00,03/31/11
+QCOM,QCOM,QCOM,Information Technology,01/01/99,01/01/20
+QEP,QEP,QEP,Energy,06/30/10,06/30/15
+QLGC,QLGC,QLGC,Information Technology,12/11/00,01/14/11
+QRVO,QRVO,QRVO,Information Technology,06/11/15,01/01/20
+R,R,R,Industrials,01/01/99,01/01/20
+RAD,RAD,RAD,Consumer Staples,01/01/99,07/26/00
+RAI,RAI,RAI,Consumer Staples,09/03/02,01/01/20
+RCL,RCL,RCL,Consumer Discretionary,12/04/14,01/01/20
+RDC,RDC,RDC,Energy,01/01/99,08/18/14
+REGN,REGN,REGN,Health Care,04/30/13,01/01/20
+RF,RF,RF,Financials,01/01/99,01/01/20
+RHI,RHI,RHI,Industrials,12/04/00,01/01/20
+RHT,RHT,RHT,Information Technology,07/24/09,01/01/20
+RIG,RIG,RIG,Energy,10/28/13,12/18/08
+RL,RL,RL,Consumer Discretionary,01/31/07,01/01/20
+RLGY,RLGY,RLGY,Real Estate,07/31/06,04/09/07
+RML,RML,RML,Consumer Discretionary,01/01/99,12/11/00
+ROH,ROH,ROH,Materials,01/01/99,04/01/09
+ROK,ROK,ROK,Industrials,01/01/99,01/01/20
+ROP,ROP,ROP,Industrials,12/22/09,01/01/20
+ROST,ROST,ROST,Consumer Discretionary,12/18/09,01/01/20
+RRC,RRC,RRC,Energy,12/20/07,01/01/20
+RRD,RRD,RRD,Industrials,01/01/99,12/11/12
+RSG,RSG,RSG,Industrials,12/04/08,01/01/20
+RSH,RSH,RSHCQ,Consumer Discretionary,01/01/99,06/30/11
+RTN,RTN,RTN,Industrials,01/01/99,01/01/20
+RX,RX,RX,Health Care,01/01/99,02/26/10
+S,S,S,Telecommunications,01/01/99,07/08/13
+S (Sears),S1,S_1,Consumer Discretionary,01/01/99,03/24/05
+SAF,SAF,SAF,Financials,01/01/99,09/22/08
+SANM,SANM,SANM,Information Technology,06/20/00,06/29/07
+SAPE,SAPE,SAPE,Information Technology,05/04/00,05/10/02
+SUB,SBGA,SBGA,Financials,01/01/99,02/28/01
+SBUX,SBUX,SBUX,Consumer Discretionary,06/07/00,01/01/20
+SCG,SCG,SCG,Utilities,12/31/08,01/01/20
+SCHW,SCHW,SCHW,Financials,01/01/99,01/01/20
+SRV,SCI,SCI,Consumer Discretionary,01/01/99,03/15/00
+SDS,SDS1,SDS_,Information Technology,07/19/02,08/11/05
+SE,SE,SE,Energy,12/29/06,01/01/20
+SEE,SEE,SEE,Materials,01/01/99,01/01/20
+SFA,SFA,SFA,Information Technology,01/01/99,02/24/06
+SGI,SGI,SGI,Information Technology,01/01/99,06/20/00
+SGP,SGP,SGP,Health Care,01/01/99,11/03/09
+SHLD,SHLD,SHLD,Consumer Discretionary,03/24/05,09/04/12
+SHW,SHW,SHW,Materials,01/01/99,01/01/20
+SIAL,SIAL,SIAL,Materials,01/01/99,11/18/15
+SIG,SIG,SIG,Consumer Discretionary,07/28/15,01/01/20
+SII,SII,SII,Energy,09/29/06,08/26/10
+SJM,SJM,SJM,Consumer Staples,11/05/08,01/01/20
+SLB,SLB,SLB,Energy,01/01/99,01/01/20
+SLG,SLG,SLG,Real Estate,03/20/15,01/01/20
+SLM,SLM,SLM,Financials,01/01/99,05/01/14
+SLR,SLR,SLR,Information Technology,01/01/99,10/01/07
+SNA,SNA,SNA,Industrials,01/01/99,01/01/20
+SNDK,SNDK,SNDK,Information Technology,04/19/06,05/12/16
+SNI,SNI,SNI,Consumer Discretionary,06/30/08,01/01/20
+SNV,SNV,SNV,Financials,01/01/99,12/31/07
+SO,SO,SO,Utilities,01/01/99,01/01/20
+SPG,SPG,SPG,Real Estate,06/25/02,01/01/20
+SPGI,SPGI,SPGI,Financials,01/01/99,01/01/20
+SPLS,SPLS,SPLS,Consumer Discretionary,01/01/99,01/01/20
+SRCL,SRCL,SRCL,Industrials,11/18/08,01/01/20
+SRE,SRE,SRE,Utilities,01/01/99,01/01/20
+SSP,SSP,SSP,Consumer Discretionary,12/19/05,06/30/08
+STI,STI,STI,Financials,01/01/99,01/01/20
+STJ,STJ,STJ,Health Care,01/01/99,01/01/20
+STR,STR,STR,Utilities,11/30/06,06/30/10
+STT,STT,STT,Financials,01/01/99,01/01/20
+STX,STX,STX,Information Technology,06/29/12,01/01/20
+STZ,STZ,STZ,Consumer Staples,07/01/05,01/01/20
+SUN,SUN,SUN,Energy,01/01/99,10/04/12
+SUNE,SUNE,SUNE,Information Technology,05/30/07,12/16/11
+SVU,SVU,SVU,Consumer Staples,01/01/99,04/23/12
+SWK,SWK,SWK,Industrials,01/01/99,01/01/20
+SWKS,SWKS,SWKS,Information Technology,03/11/15,01/01/20
+SWN,SWN,SWN,Energy,06/06/08,01/01/20
+SWY,SWY,SWY,Consumer Staples,01/01/99,01/26/15
+SYF,SYF,SYF,Financials,11/17/15,01/01/20
+SYK,SYK,SYK,Health Care,12/11/00,01/01/20
+SYMC,SYMC,SYMC,Information Technology,03/28/03,01/01/20
+SYY,SYY,SYY,Consumer Staples,01/01/99,01/01/20
+T,T,T,Telecommunications,01/01/99,01/01/20
+TAP,TAP,TAP,Consumer Staples,01/01/99,01/01/20
+TDC,TDC,TDC,Information Technology,09/28/07,01/01/20
+TDG,TDG,TDG,Industrials,06/02/16,01/01/20
+TE,TE,TE,Utilities,10/09/01,06/30/16
+TEG,TEG,TEG,Utilities,02/21/07,06/30/15
+TEK,TEK,TEK,Information Technology,01/01/99,11/15/07
+TEL,TEL,TEL,Information Technology,10/14/11,06/25/09
+TER,TER,TER,Information Technology,01/01/99,12/20/13
+TEX,TEX,TEX,Industrials,12/19/06,11/05/08
+TGNA,TGNA,TGNA,Consumer Discretionary,01/01/99,01/01/20
+TGT,TGT,TGT,Consumer Discretionary,01/01/99,01/01/20
+THC,THC,THC,Health Care,01/01/99,04/15/16
+TIE,TIE,TIE,Materials,10/26/07,12/21/12
+TIF,TIF,TIF,Consumer Discretionary,06/20/00,01/01/20
+TIN,TIN,TIN,Materials,01/01/99,12/28/07
+TJX,TJX,TJX,Consumer Discretionary,01/01/99,01/01/20
+TKR,TKR,TKR,Industrials,01/01/99,08/06/01
+TLAB,TLAB,TLAB,Information Technology,01/01/99,12/20/11
+TMK,TMK,TMK,Financials,01/01/99,01/01/20
+TMO,TMO,TMO,Health Care,01/01/99,01/01/20
+TNB,TNB,TNB,Industrials,01/01/99,08/02/04
+TOY,TOY,TOY_,Consumer Discretionary,01/01/99,07/21/05
+TRB,TRB,TRB,Consumer Discretionary,01/01/99,12/20/07
+TRIP,TRIP,TRIP,Consumer Discretionary,12/20/11,01/01/20
+TROW,TROW,TROW,Financials,01/01/99,01/01/20
+TRV,TRV,TRV,Financials,01/01/99,01/01/20
+TRW,TRW,TRW,Consumer Discretionary,01/01/99,12/11/02
+TSCO,TSCO,TSCO,Consumer Discretionary,01/23/14,01/01/20
+TSG,TSG,TSG,Information Technology,03/15/00,03/30/07
+TSN,TSN,TSN,Consumer Staples,08/10/05,01/01/20
+TSO,TSO,TSO,Energy,09/26/07,01/01/20
+TSS,TSS,TSS,Information Technology,12/31/07,01/01/20
+TT,TT,TT,Industrials,05/10/02,06/06/08
+TUP,TUP,TUP,Consumer Discretionary,01/01/99,03/24/04
+TWC,TWC,TWC,Consumer Discretionary,03/27/09,05/17/16
+TWX,TWX,TWX,Consumer Discretionary,01/01/99,01/01/20
+TXN,TXN,TXN,Information Technology,01/01/99,01/01/20
+TXT,TXT,TXT,Industrials,01/01/99,01/01/20
+TXU,TXU,TXU,Utilities,01/01/99,10/09/07
+UA,UA,UA,Consumer Discretionary,04/30/14,01/01/20
+UAL,UAL,UAL,Industrials,09/02/15,01/01/20
+UDR,UDR,UDR,Real Estate,03/04/16,01/01/20
+UHS,UHS,UHS,Health Care,09/19/14,01/01/20
+UIS,UIS,UIS,Information Technology,01/01/99,11/10/08
+ULTA,ULTA,ULTA,Consumer Discretionary,04/15/16,01/01/20
+UNH,UNH,UNH,Health Care,01/01/99,01/01/20
+UNM,UNM,UNM,Financials,01/01/99,01/01/20
+UNP,UNP,UNP,Industrials,01/01/99,01/01/20
+UPS,UPS,UPS,Industrials,07/19/02,01/01/20
+URBN,URBN,URBN,Consumer Discretionary,01/29/10,01/01/20
+URI,URI,URI,Industrials,09/19/14,01/01/20
+USB,USB,USB,Financials,01/01/99,01/01/20
+UTX,UTX,UTX,Industrials,01/01/99,01/01/20
+UVN,UVN,UVN,Consumer Discretionary,02/06/01,03/28/07
+V,V,V,Financials,12/18/09,01/01/20
+VAR,VAR,VAR,Health Care,02/09/07,01/01/20
+VC,VC,VC,Consumer Discretionary,06/28/00,12/30/05
+VFC,VFC,VFC,Consumer Discretionary,01/01/99,01/01/20
+VIAB,VIAB,VIAB,Consumer Discretionary,12/30/05,01/01/20
+VIAV,VIAV,VIAV,Information Technology,07/26/00,12/20/13
+VLO,VLO,VLO,Energy,04/28/04,01/01/20
+VMC,VMC,VMC,Materials,01/01/99,01/01/20
+VNO,VNO,VNO,Real Estate,08/11/05,01/01/20
+VRSK,VRSK,VRSK,Industrials,10/07/15,01/01/20
+VRSN,VRSN,VRSN,Information Technology,01/31/06,01/01/20
+VRTS,VRTS1,VRTS_,Information Technology,03/31/00,07/01/05
+VRTX,VRTX,VRTX,Health Care,09/20/13,01/01/20
+VTR,VTR,VTR,Real Estate,03/03/09,01/01/20
+VZ,VZ,VZ,Telecommunications,01/01/99,01/01/20
+WAMUQ,WAMUQ,WAMUQ,Financials,01/01/99,09/29/08
+WAT,WAT,WAT,Health Care,12/31/01,01/01/20
+WB,WB1,WB_,Financials,01/01/99,12/31/08
+WBA,WBA,WBA,Consumer Staples,01/01/99,01/01/20
+WDC,WDC,WDC,Information Technology,06/30/09,01/01/20
+WEC,WEC,WEC,Utilities,10/30/08,01/01/20
+WEN,WEN,WEN,Consumer Discretionary,01/01/99,09/29/08
+WFC,WFC,WFC,Financials,01/01/99,01/01/20
+WFM,WFM,WFM,Consumer Staples,12/30/05,01/01/20
+WFT,WFT,WFT,Energy,07/21/05,02/25/09
+WHR,WHR,WHR,Consumer Discretionary,01/01/99,01/01/20
+WIN,WIN,WIN,Telecommunications,07/17/06,04/06/15
+WIN (W-D),WINN,WINN,Consumer Staples,01/01/99,12/02/04
+WLP,WLP1,WLP_1,Health Care,01/01/99,11/30/04
+WLTW,WLTW,WLTW,Financials,01/04/16,01/01/20
+WM,WM,WM,Industrials,01/01/99,01/01/20
+WMB,WMB,WMB,Energy,01/01/99,01/01/20
+WMT,WMT,WMT,Consumer Staples,01/01/99,01/01/20
+WOR,WOR,WOR,Materials,01/01/99,12/17/04
+WPX,WPX,WPX,Energy,12/30/11,03/21/14
+WRK,WRK,WRK,Materials,01/01/99,01/01/20
+WU,WU,WU,Information Technology,09/29/06,01/01/20
+WWY,WWY,WWY,Consumer Staples,01/01/99,10/03/08
+WY,WY,WY,Real Estate,01/01/99,01/01/20
+WYE,WYE,WYE,Health Care,01/01/99,10/15/09
+WYN,WYN,WYN,Consumer Discretionary,07/31/06,01/01/20
+WYNN,WYNN,WYNN,Consumer Discretionary,11/13/08,01/01/20
+X,X,X,Materials,01/01/99,07/01/14
+XEC,XEC,XEC,Energy,06/20/14,01/01/20
+XEL,XEL,XEL,Utilities,01/01/99,01/01/20
+XL,XL,XL,Financials,08/31/01,01/01/20
+XLNX,XLNX,XLNX,Information Technology,01/01/99,01/01/20
+XOM,XOM,XOM,Energy,01/01/99,01/01/20
+XRAY,XRAY,XRAY,Health Care,11/13/08,01/01/20
+XRX,XRX,XRX,Information Technology,01/01/99,01/01/20
+XTO,XTO,XTO,Energy,12/28/04,06/28/10
+XYL,XYL,XYL,Industrials,10/31/11,01/01/20
+YHOO,YHOO,YHOO,Information Technology,01/01/99,01/01/20
+YUM,YUM,YUM,Consumer Discretionary,01/01/99,01/01/20
+ZBH,ZBH,ZBH,Health Care,08/06/01,01/01/20
+ZION,ZION,ZION,Financials,06/22/01,01/01/20
+ZTS,ZTS,ZTS,Health Care,06/21/13,01/01/20
